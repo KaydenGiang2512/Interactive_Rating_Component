@@ -17,7 +17,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: ()
+- Solution URL: (https://www.frontendmentor.io/solutions/interactive-rating-component-built-with-html5-css3-and-vanilla-js-r13ewO6r9)
 - Live Site URL: (https://kaydengiang2512.github.io/Interactive_Rating_Component/)
 
 ## My process
