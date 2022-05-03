@@ -148,9 +148,22 @@ input:hover {
     border-radius: 1.8rem;
 }
 
+.thankyou-page .thankyou-logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 .thankyou-page .thankyou-logo img {
     height: 7rem;
     width: 10rem;
+}
+
+.thankyou-page .refresh-prompt {
+    display: block;
+    opacity: 0;
+    transition: 0.5s ease-in-out;
 }
 
 .thankyou-page .rating-summary {
